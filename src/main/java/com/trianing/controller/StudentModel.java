@@ -3,10 +3,10 @@ package com.trianing.controller;
 public class StudentModel {
 	// ctrl +alts+ s
 
+	private int id;
 	private String name;
 	private String city;
 	private String address;
-	private int id;
 
 	/**
 	 * @return the id
